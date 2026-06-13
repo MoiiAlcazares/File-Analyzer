@@ -1,0 +1,18 @@
+
+📊 FILE ANALYZER PRO REPORT
+
+Líneas: 4
+Palabras (limpias): 110
+Caracteres: 610
+
+🔥 Top 10 palabras más usadas:
+en: 7
+que: 7
+el: 5
+y: 4
+de: 4
+vida: 3
+la: 3
+tu: 3
+mi: 2
+cielo: 2
